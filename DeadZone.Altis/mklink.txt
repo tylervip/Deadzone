@@ -1,0 +1,5 @@
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink
+
+Example 
+mklink /D "C:\Users\ptyle\Documents\Arma 3 - Other Profiles\08%20MSG%2e%22Castle%22%20Tylervip\mpmissions\DeadZone.Altis" "C:\Users\ptyle\Documents\github\Deadzone\DeadZone.Altis"
+
