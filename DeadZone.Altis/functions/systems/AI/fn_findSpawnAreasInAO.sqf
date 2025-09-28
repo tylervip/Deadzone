@@ -26,7 +26,7 @@ if (count _midMarkers > 0) then {
 };
 */
 
-private _selectedMarkerName = missionNamespace getVariable ["Possible_AO_Selected", ""];
+private _selectedMarkerName = missionNamespace getVariable ["AO_Marker", ""];
 
 if (_selectedMarkerName isEqualTo "") exitWith {
     systemChat "No AO marker selected!";
