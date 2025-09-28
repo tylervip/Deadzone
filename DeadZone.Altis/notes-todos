@@ -1,0 +1,13 @@
+design dynamic zone system: Create procedural generation and random AO placement.  notes Possible_AO_0-14 AO playable area 3000X3000
+Implement AI enemy patrols: Add AI that defends and patrols key areas.
+ADD low and high tear AI spawns areas amount + AI skill level 
+Develop zone attack and COP mechanics: Enable player teams to attack, secure zones, and establish COPs.
+Add COP and sight mechanics: Make COPs generate two sights for attackers to destroy.
+Balance AI and player conflict: Tune gameplay for replayability and tactical depth.
+infill extract mechanics notes helicopter, plane, and truck
+    ^could ues that find close road code for truck^
+work spawning gear around the the AO 
+make low and high tear loot pools
+crate team main base for each Possible_AO
+link Possible_AO to the base and hide the rest
+??add cover map to selected AO ?? maybe not ??

@@ -1,0 +1,9 @@
+
+
+
+
+class CfgFunctions {
+    // Functions config built during build process
+    #include "configs\init_functions.hpp"
+};
+#include "configs\init_configs.hpp"
